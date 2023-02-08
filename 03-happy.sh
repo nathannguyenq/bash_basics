@@ -18,5 +18,5 @@ echo "Today is: " $(date)
 if [[ day -gt 5 ]]; then
    echo "WEEKEND"        
 else
-   echo "NOT THE WEEKEND"
+   echo "NOT THE WEEKEND!!!!!!!!!!"
 fi
